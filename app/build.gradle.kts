@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.idz.androidactivityfundamentals"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.idz.androidactivityfundamentals"
