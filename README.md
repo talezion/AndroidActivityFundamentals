@@ -39,10 +39,11 @@ This project includes:
 
 ## Project Structure
 
+```
 |-- app/  
     |-- src/  
         |-- main/  
-            |-- java/com/example/lifecycleexample/  
+            |-- java/com/idz/androidactivityfundamentals/ 
                 |-- MainActivity.kt  # Main activity with full lifecycle methods  
                 |-- SecondActivity.kt  # A secondary activity to demonstrate navigation  
             |-- res/  
@@ -52,6 +53,7 @@ This project includes:
                 |-- values/  
                     |-- strings.xml  # App string resources  
     |-- AndroidManifest.xml  # App manifest with both activities registered  
+```
 
 ## Setup Instructions
 
