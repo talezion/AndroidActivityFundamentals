@@ -58,7 +58,7 @@ This project includes:
 ## Setup Instructions
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-username/activity-lifecycle-example.git
+   `git clone https://github.com/your-username/activity-lifecycle-example.git`
 
 2. Open the project in **Android Studio**.
 
